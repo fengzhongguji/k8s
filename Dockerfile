@@ -1,3 +1,4 @@
-FROM registry.k8s.io/etcd:3.5.6-0
+FROM registry.k8s.io/coredns/coredns:v1.9.3
+
 
 
